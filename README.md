@@ -13,7 +13,7 @@ This application offers a comprehensive task management solution that allows use
 - **Real-time State Synchronization:** Immediate UI updates reflecting server-side changes
 
 ## Technology Stack
-**Frontend:**
+**Frontend:**\
 JavaScript (ES6+)\
 Handlebars.js\
 HTML/CSS
