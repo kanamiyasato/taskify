@@ -70,7 +70,7 @@ function mutateCompletedToBoolean(todo) {
  * @apiSuccess {String}   todo.title               Title of todo.
  * @apiSuccess {String}   todo.day                 Day of todo.
  * @apiSuccess {String}   todo.month               Month of todo.
- * @apiSuccess {String}   todo.year                Mear of todo.
+ * @apiSuccess {String}   todo.year                Year of todo.
  * @apiSuccess {Boolean}  todo.completed           Completed status of todo.
  * @apiSuccess {String}   todo.description         Description of todo.
  *
